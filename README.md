@@ -1,3 +1,3 @@
-GramConnect
-Make internet available to the places with no internet
-Soon update the description about it :)
+# GramConnect
+Make internet available to the places with no internet.
+Will update the description soon :)
